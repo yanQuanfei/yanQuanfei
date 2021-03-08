@@ -1,5 +1,9 @@
 ### Hi  👋  I'm yanquanfei,a .NET developer and Java developer.
+My bachelor's degree is in computer science and technology, but I know a little bit about hardware and Raspberry Pi, and I like to build some cool things.
 
+- 🔭 I’m currently working on **ZhongRui Group**
+- 🌱 I’m currently focusing on **Java** **SpringBoot**
+- 📫 How to reach me: [yan_quanfei@163.com](mailto:yan_quanfei@163.com)
 <!--
 **yanQuanfei/yanQuanfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
