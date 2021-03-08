@@ -1,4 +1,4 @@
-### Hi  👋  i'm yanquanfei, .NET developer and Java developer.
+### Hi  👋  I'm yanquanfei,a .NET developer and Java developer.
 
 <!--
 **yanQuanfei/yanQuanfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
